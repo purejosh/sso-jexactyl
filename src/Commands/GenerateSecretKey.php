@@ -4,7 +4,7 @@ namespace WemX\Sso\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Console\Kernel;
-use Pterodactyl\Traits\Commands\EnvironmentWriterTrait;
+use Jexactyl\Traits\Commands\EnvironmentWriterTrait;
 use Illuminate\Support\Str;
 
 class GenerateSecretKey extends Command
@@ -26,7 +26,7 @@ class GenerateSecretKey extends Command
     /**
      * Handle command execution.
      *
-     * @throws \Pterodactyl\Exceptions\PterodactylException
+     * @throws \Jexactyl\Exceptions\JexactylException
      */
     public function handle(): int
     {

@@ -1,5 +1,5 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/wemx/sso-pterodactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-pterodactyl)
-[![Total Downloads](https://img.shields.io/packagist/dt/wemx/sso-pterodactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-pterodactyl)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/wemx/sso-jexactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-jexactyl)
+[![Total Downloads](https://img.shields.io/packagist/dt/wemx/sso-jexactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-jexactyl)
 
 # Laravel SSO
 
@@ -15,7 +15,7 @@ Laravel SSO is a package for implementing Single Sign-On (SSO) authorizations in
 To install the package, use Composer:
 
 ```bash
-composer require wemx/sso-pterodactyl
+composer require wemx/sso-jexactyl
 ```
 
 ## Configuration
